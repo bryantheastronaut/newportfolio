@@ -1,0 +1,71 @@
+body {
+  background: url('images/bg1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.fa {
+  font-size: 4em;
+  color: #ffff43;
+  text-shadow:1px 1px 0 black;
+  padding-left:5px;
+}
+
+.folderLabel {
+  margin: 10px;
+  text-shadow: 1px 1px 0 black;
+  color:white;
+  font-weight:bold;
+}
+
+.navbar-custom {
+  min-height:35px;
+  background-color: rgba(40,96,219,0.8);
+  border-radius:5px;
+  border-top:4px rgba(57,138,220,0.9) solid;
+}
+
+#githubbtn {
+  position:relative;
+  top:-2px;
+  height:35px;
+  width: 115px;
+  background-color:rgba(70,167,72,0.8);
+  border-radius: 11px;
+  color:white;
+  font-weight: bold;
+  font-size:1.2em;
+  margin:0;
+}
+
+#time {
+  float: right;
+  padding: 5px 12px 5px 0;
+  color:white;
+  font-weight:bold;
+}
+
+#lighterBar {
+  width:285px;
+  background-color: rgba(0,152,229,0.7);
+  border:1px rgba(0,0,0,0.5) solid;
+  float:right;
+  margin-bottom:0;
+  border-radius: 5px;
+  position:relative;
+  top:1px;
+  right:2px;
+}
+
+.trayIconFirst {
+  color:white;
+  font-size: 1.2em;
+  padding: 8px 2px 5px 15px;
+}
+
+
+.trayIcon {
+  color:white;
+  font-size: 1.3em;
+  padding: 5px 0 5px 5px;
+}
